@@ -1,4 +1,7 @@
+** Fork for contribution to opengrid.be **
+
 # Machine Learning to forecast energy consumptiona and production.
+
 This project is based on the emoncms.org users and their REST API. 
 
 The machine in which this project is develop runs a Debian 8.7
